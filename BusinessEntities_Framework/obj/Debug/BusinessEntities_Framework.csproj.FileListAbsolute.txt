@@ -1,0 +1,46 @@
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2\BusinessEntities_Framework\obj\Debug\BusinessEntities_Framework.csprojAssemblyReference.cache
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2\BusinessEntities_Framework\bin\Debug\BusinessEntities_Framework.dll
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2\BusinessEntities_Framework\bin\Debug\BusinessEntities_Framework.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2\BusinessEntities_Framework\obj\Debug\BusinessEntities_Framework.dll
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2\BusinessEntities_Framework\obj\Debug\BusinessEntities_Framework.pdb
+C:\Users\johan\OneDrive\Desktop\Laboration_2_2020_02\Laboration_2\BusinessEntities_Framework\bin\Debug\BusinessEntities_Framework.dll
+C:\Users\johan\OneDrive\Desktop\Laboration_2_2020_02\Laboration_2\BusinessEntities_Framework\bin\Debug\BusinessEntities_Framework.pdb
+C:\Users\johan\OneDrive\Desktop\Laboration_2_2020_02\Laboration_2\BusinessEntities_Framework\obj\Debug\BusinessEntities_Framework.csprojAssemblyReference.cache
+C:\Users\johan\OneDrive\Desktop\Laboration_2_2020_02\Laboration_2\BusinessEntities_Framework\obj\Debug\BusinessEntities_Framework.dll
+C:\Users\johan\OneDrive\Desktop\Laboration_2_2020_02\Laboration_2\BusinessEntities_Framework\obj\Debug\BusinessEntities_Framework.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02\Laboration_2\BusinessEntities_Framework\bin\Debug\BusinessEntities_Framework.dll
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02\Laboration_2\BusinessEntities_Framework\bin\Debug\BusinessEntities_Framework.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02\Laboration_2\BusinessEntities_Framework\obj\Debug\BusinessEntities_Framework.csprojAssemblyReference.cache
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02\Laboration_2\BusinessEntities_Framework\obj\Debug\BusinessEntities_Framework.dll
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02\Laboration_2\BusinessEntities_Framework\obj\Debug\BusinessEntities_Framework.pdb
+C:\Users\johan\OneDrive\Desktop\Laboration_2_2020_24\Laboration_2\BusinessEntities_Framework\bin\Debug\BusinessEntities_Framework.dll
+C:\Users\johan\OneDrive\Desktop\Laboration_2_2020_24\Laboration_2\BusinessEntities_Framework\bin\Debug\BusinessEntities_Framework.pdb
+C:\Users\johan\OneDrive\Desktop\Laboration_2_2020_24\Laboration_2\BusinessEntities_Framework\obj\Debug\BusinessEntities_Framework.csprojAssemblyReference.cache
+C:\Users\johan\OneDrive\Desktop\Laboration_2_2020_24\Laboration_2\BusinessEntities_Framework\obj\Debug\BusinessEntities_Framework.dll
+C:\Users\johan\OneDrive\Desktop\Laboration_2_2020_24\Laboration_2\BusinessEntities_Framework\obj\Debug\BusinessEntities_Framework.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_25\Laboration_2\BusinessEntities_Framework\bin\Debug\BusinessEntities_Framework.dll
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_25\Laboration_2\BusinessEntities_Framework\bin\Debug\BusinessEntities_Framework.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_25\Laboration_2\BusinessEntities_Framework\obj\Debug\BusinessEntities_Framework.csprojAssemblyReference.cache
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_25\Laboration_2\BusinessEntities_Framework\obj\Debug\BusinessEntities_Framework.dll
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_25\Laboration_2\BusinessEntities_Framework\obj\Debug\BusinessEntities_Framework.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Lab 2 BAckup\Laboration_2_2020_25 back\Laboration_2\BusinessEntities_Framework\bin\Debug\BusinessEntities_Framework.dll
+C:\Users\erikr\OneDrive\Skrivbord\Lab 2 BAckup\Laboration_2_2020_25 back\Laboration_2\BusinessEntities_Framework\bin\Debug\BusinessEntities_Framework.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Lab 2 BAckup\Laboration_2_2020_25 back\Laboration_2\BusinessEntities_Framework\obj\Debug\BusinessEntities_Framework.csprojAssemblyReference.cache
+C:\Users\erikr\OneDrive\Skrivbord\Lab 2 BAckup\Laboration_2_2020_25 back\Laboration_2\BusinessEntities_Framework\obj\Debug\BusinessEntities_Framework.dll
+C:\Users\erikr\OneDrive\Skrivbord\Lab 2 BAckup\Laboration_2_2020_25 back\Laboration_2\BusinessEntities_Framework\obj\Debug\BusinessEntities_Framework.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02_25\BusinessEntities_Framework\bin\Debug\BusinessEntities_Framework.dll
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02_25\BusinessEntities_Framework\bin\Debug\BusinessEntities_Framework.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02_25\BusinessEntities_Framework\obj\Debug\BusinessEntities_Framework.csprojAssemblyReference.cache
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02_25\BusinessEntities_Framework\obj\Debug\BusinessEntities_Framework.dll
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02_25\BusinessEntities_Framework\obj\Debug\BusinessEntities_Framework.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration 3\Laboration_3\BusinessEntities_Framework\bin\Debug\BusinessEntities_Framework.dll
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration 3\Laboration_3\BusinessEntities_Framework\bin\Debug\BusinessEntities_Framework.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration 3\Laboration_3\BusinessEntities_Framework\obj\Debug\BusinessEntities_Framework.csprojAssemblyReference.cache
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration 3\Laboration_3\BusinessEntities_Framework\obj\Debug\BusinessEntities_Framework.dll
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration 3\Laboration_3\BusinessEntities_Framework\obj\Debug\BusinessEntities_Framework.pdb
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\BusinessEntities_Framework\bin\Debug\BusinessEntities_Framework.dll
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\BusinessEntities_Framework\bin\Debug\BusinessEntities_Framework.pdb
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\BusinessEntities_Framework\obj\Debug\BusinessEntities_Framework.csprojAssemblyReference.cache
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\BusinessEntities_Framework\obj\Debug\BusinessEntities_Framework.csproj.CoreCompileInputs.cache
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\BusinessEntities_Framework\obj\Debug\BusinessEntities_Framework.dll
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\BusinessEntities_Framework\obj\Debug\BusinessEntities_Framework.pdb

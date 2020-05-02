@@ -1,0 +1,23 @@
+C:\Users\erikr\OneDrive\Skrivbord\Laboration_2\Laboration_2\obj\Debug\netstandard2.0\DataLayer.csprojAssemblyReference.cache
+C:\Users\erikr\OneDrive\Skrivbord\Laboration_2\Laboration_2\obj\Debug\netstandard2.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\erikr\OneDrive\Skrivbord\Laboration_2\Laboration_2\obj\Debug\netstandard2.0\DataLayer.AssemblyInfo.cs
+C:\Users\erikr\OneDrive\Skrivbord\Root\Utbildning\Asyst 2018\2.3 Objektorientering 2\Laborationer\Lab 2\Laboration_2\Laboration_2\obj\Debug\netstandard2.0\DataLayer.csprojAssemblyReference.cache
+C:\Users\erikr\OneDrive\Skrivbord\Root\Utbildning\Asyst 2018\2.3 Objektorientering 2\Laborationer\Lab 2\Laboration_2\Laboration_2\obj\Debug\netstandard2.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\erikr\OneDrive\Skrivbord\Root\Utbildning\Asyst 2018\2.3 Objektorientering 2\Laborationer\Lab 2\Laboration_2\Laboration_2\obj\Debug\netstandard2.0\DataLayer.AssemblyInfo.cs
+C:\Users\erikr\OneDrive\Skrivbord\Root\Utbildning\Asyst 2018\2.3 Objektorientering 2\Laborationer\Lab 2\Laboration_2\Laboration_2\obj\Debug\netstandard2.0\DataLayer.dll
+C:\Users\erikr\OneDrive\Skrivbord\Root\Utbildning\Asyst 2018\2.3 Objektorientering 2\Laborationer\Lab 2\Laboration_2\Laboration_2\obj\Debug\netstandard2.0\DataLayer.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Root\Utbildning\Asyst 2018\2.3 Objektorientering 2\Laborationer\Lab 2\Laboration_2\Laboration_2\bin\Debug\netstandard2.0\DataLayer.deps.json
+C:\Users\erikr\OneDrive\Skrivbord\Root\Utbildning\Asyst 2018\2.3 Objektorientering 2\Laborationer\Lab 2\Laboration_2\Laboration_2\bin\Debug\netstandard2.0\DataLayer.dll
+C:\Users\erikr\OneDrive\Skrivbord\Root\Utbildning\Asyst 2018\2.3 Objektorientering 2\Laborationer\Lab 2\Laboration_2\Laboration_2\bin\Debug\netstandard2.0\DataLayer.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Root\Utbildning\Asyst 2018\2.3 Objektorientering 2\Laborationer\Lab 2\Laboration_2\Laboration_2\bin\Debug\netstandard2.0\BusinessEnteties.dll
+C:\Users\erikr\OneDrive\Skrivbord\Root\Utbildning\Asyst 2018\2.3 Objektorientering 2\Laborationer\Lab 2\Laboration_2\Laboration_2\bin\Debug\netstandard2.0\BusinessEnteties.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Root\Utbildning\Asyst 2018\2.3 Objektorientering 2\Laborationer\Lab 2\Laboration_2\Laboration_2\obj\Debug\netstandard2.0\DataLayer.csproj.CopyComplete
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2\Laboration_2\obj\Debug\netstandard2.0\DataLayer.csprojAssemblyReference.cache
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2\Laboration_2\obj\Debug\netstandard2.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2\Laboration_2\obj\Debug\netstandard2.0\DataLayer.AssemblyInfo.cs
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2\Laboration_2\obj\Debug\netstandard2.0\DataLayer.dll
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2\Laboration_2\obj\Debug\netstandard2.0\DataLayer.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2\Laboration_2\bin\Debug\netstandard2.0\DataLayer.deps.json
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2\Laboration_2\bin\Debug\netstandard2.0\DataLayer.dll
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2\Laboration_2\bin\Debug\netstandard2.0\DataLayer.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2\Laboration_2\bin\Debug\netstandard2.0\DataLayer.dll.config

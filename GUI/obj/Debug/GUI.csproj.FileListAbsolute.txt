@@ -1,0 +1,292 @@
+C:\Users\erikr\OneDrive\Skrivbord\Root\Utbildning\Asyst 2018\2.3 Objektorientering 2\Laborationer\Lab 2\Laboration_2\GUI\bin\Debug\GUI.exe.config
+C:\Users\erikr\OneDrive\Skrivbord\Root\Utbildning\Asyst 2018\2.3 Objektorientering 2\Laborationer\Lab 2\Laboration_2\GUI\bin\Debug\GUI.exe
+C:\Users\erikr\OneDrive\Skrivbord\Root\Utbildning\Asyst 2018\2.3 Objektorientering 2\Laborationer\Lab 2\Laboration_2\GUI\bin\Debug\GUI.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Root\Utbildning\Asyst 2018\2.3 Objektorientering 2\Laborationer\Lab 2\Laboration_2\GUI\bin\Debug\BusinessLayer.dll
+C:\Users\erikr\OneDrive\Skrivbord\Root\Utbildning\Asyst 2018\2.3 Objektorientering 2\Laborationer\Lab 2\Laboration_2\GUI\bin\Debug\BusinessLayer.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Root\Utbildning\Asyst 2018\2.3 Objektorientering 2\Laborationer\Lab 2\Laboration_2\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\erikr\OneDrive\Skrivbord\Root\Utbildning\Asyst 2018\2.3 Objektorientering 2\Laborationer\Lab 2\Laboration_2\GUI\obj\Debug\GUI.Alum_student.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Utbildning\Asyst 2018\2.3 Objektorientering 2\Laborationer\Lab 2\Laboration_2\GUI\obj\Debug\GUI.LoggIn.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Utbildning\Asyst 2018\2.3 Objektorientering 2\Laborationer\Lab 2\Laboration_2\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Utbildning\Asyst 2018\2.3 Objektorientering 2\Laborationer\Lab 2\Laboration_2\GUI\obj\Debug\GUI.Skapa_Event.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Utbildning\Asyst 2018\2.3 Objektorientering 2\Laborationer\Lab 2\Laboration_2\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\erikr\OneDrive\Skrivbord\Root\Utbildning\Asyst 2018\2.3 Objektorientering 2\Laborationer\Lab 2\Laboration_2\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\erikr\OneDrive\Skrivbord\Root\Utbildning\Asyst 2018\2.3 Objektorientering 2\Laborationer\Lab 2\Laboration_2\GUI\obj\Debug\GUI.exe
+C:\Users\erikr\OneDrive\Skrivbord\Root\Utbildning\Asyst 2018\2.3 Objektorientering 2\Laborationer\Lab 2\Laboration_2\GUI\obj\Debug\GUI.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2\GUI\bin\Debug\GUI.exe.config
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2\GUI\bin\Debug\GUI.exe
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2\GUI\bin\Debug\GUI.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2\GUI\bin\Debug\EntityFramework.dll
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2\GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2\GUI\bin\Debug\EntityFramework.xml
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2\GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2\GUI\obj\Debug\GUI.Alum_student.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2\GUI\obj\Debug\GUI.LoggIn.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2\GUI\obj\Debug\GUI.Skapa_Event.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2\GUI\obj\Debug\GUI.exe
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2\GUI\obj\Debug\GUI.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2\GUI\obj\Debug\GUI.TestAddAlumn.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2\GUI\bin\Debug\BusinessEntities_Framework.dll
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2\GUI\bin\Debug\BusinessLayer_Framework.dll
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2\GUI\bin\Debug\DataLayer_Framework.dll
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2\GUI\bin\Debug\BusinessEntities_Framework.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2\GUI\bin\Debug\BusinessLayer_Framework.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2\GUI\bin\Debug\DataLayer_Framework.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2\GUI\bin\Debug\DataLayer_Framework.dll.config
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2\GUI\obj\Debug\GUI.Alumner.EditAlumn_WinForm.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2\GUI\obj\Debug\GUI.Administratör.BjudIn.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2\GUI\obj\Debug\GUI.Personal_Profil.resources
+C:\Users\johan\OneDrive\Desktop\Laboration_2_2020_02\Laboration_2\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\johan\OneDrive\Desktop\Laboration_2_2020_02\Laboration_2\GUI\obj\Debug\GUI.exe
+C:\Users\johan\OneDrive\Desktop\Laboration_2_2020_02\Laboration_2\GUI\obj\Debug\GUI.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02\Laboration_2\GUI\bin\Debug\GUI.exe.config
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02\Laboration_2\GUI\bin\Debug\GUI.exe
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02\Laboration_2\GUI\bin\Debug\GUI.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02\Laboration_2\GUI\bin\Debug\BusinessEntities_Framework.dll
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02\Laboration_2\GUI\bin\Debug\BusinessLayer_Framework.dll
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02\Laboration_2\GUI\bin\Debug\DataLayer_Framework.dll
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02\Laboration_2\GUI\bin\Debug\EntityFramework.dll
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02\Laboration_2\GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02\Laboration_2\GUI\bin\Debug\BusinessEntities_Framework.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02\Laboration_2\GUI\bin\Debug\BusinessLayer_Framework.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02\Laboration_2\GUI\bin\Debug\DataLayer_Framework.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02\Laboration_2\GUI\bin\Debug\DataLayer_Framework.dll.config
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02\Laboration_2\GUI\bin\Debug\EntityFramework.xml
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02\Laboration_2\GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02\Laboration_2\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02\Laboration_2\GUI\obj\Debug\GUI.Administratör.BjudIn.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02\Laboration_2\GUI\obj\Debug\GUI.Alum_student.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02\Laboration_2\GUI\obj\Debug\GUI.Alumner.EditAlumn_WinForm.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02\Laboration_2\GUI\obj\Debug\GUI.EditPersonalProfil.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02\Laboration_2\GUI\obj\Debug\GUI.Personal_Profil.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02\Laboration_2\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02\Laboration_2\GUI\obj\Debug\GUI.Skapa_Event.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02\Laboration_2\GUI\obj\Debug\GUI.SkapaJobbAnnons.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02\Laboration_2\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02\Laboration_2\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02\Laboration_2\GUI\obj\Debug\GUI.exe
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02\Laboration_2\GUI\obj\Debug\GUI.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02\Laboration_2\GUI\obj\Debug\GUI.Administratör.Admin_Editera_Personal.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02\Laboration_2\GUI\obj\Debug\GUI.Administratör.Admin_Profil.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02\Laboration_2\GUI\obj\Debug\GUI.Alumner.Alumner_Event.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02\Laboration_2\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02\Laboration_2\GUI\obj\Debug\GUI.LoggIn.resources
+C:\Users\johan\OneDrive\Desktop\Laboration_2_2020_24\Laboration_2\GUI\bin\Debug\GUI.exe.config
+C:\Users\johan\OneDrive\Desktop\Laboration_2_2020_24\Laboration_2\GUI\bin\Debug\GUI.exe
+C:\Users\johan\OneDrive\Desktop\Laboration_2_2020_24\Laboration_2\GUI\bin\Debug\GUI.pdb
+C:\Users\johan\OneDrive\Desktop\Laboration_2_2020_24\Laboration_2\GUI\bin\Debug\BusinessEntities_Framework.dll
+C:\Users\johan\OneDrive\Desktop\Laboration_2_2020_24\Laboration_2\GUI\bin\Debug\BusinessLayer_Framework.dll
+C:\Users\johan\OneDrive\Desktop\Laboration_2_2020_24\Laboration_2\GUI\bin\Debug\DataLayer_Framework.dll
+C:\Users\johan\OneDrive\Desktop\Laboration_2_2020_24\Laboration_2\GUI\bin\Debug\EntityFramework.dll
+C:\Users\johan\OneDrive\Desktop\Laboration_2_2020_24\Laboration_2\GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\johan\OneDrive\Desktop\Laboration_2_2020_24\Laboration_2\GUI\bin\Debug\BusinessEntities_Framework.pdb
+C:\Users\johan\OneDrive\Desktop\Laboration_2_2020_24\Laboration_2\GUI\bin\Debug\BusinessLayer_Framework.pdb
+C:\Users\johan\OneDrive\Desktop\Laboration_2_2020_24\Laboration_2\GUI\bin\Debug\DataLayer_Framework.pdb
+C:\Users\johan\OneDrive\Desktop\Laboration_2_2020_24\Laboration_2\GUI\bin\Debug\DataLayer_Framework.dll.config
+C:\Users\johan\OneDrive\Desktop\Laboration_2_2020_24\Laboration_2\GUI\bin\Debug\EntityFramework.xml
+C:\Users\johan\OneDrive\Desktop\Laboration_2_2020_24\Laboration_2\GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\johan\OneDrive\Desktop\Laboration_2_2020_24\Laboration_2\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\johan\OneDrive\Desktop\Laboration_2_2020_24\Laboration_2\GUI\obj\Debug\GUI.Administratör.Admin_Editera_Personal.resources
+C:\Users\johan\OneDrive\Desktop\Laboration_2_2020_24\Laboration_2\GUI\obj\Debug\GUI.Administratör.Admin_Profil.resources
+C:\Users\johan\OneDrive\Desktop\Laboration_2_2020_24\Laboration_2\GUI\obj\Debug\GUI.Administratör.BjudIn.resources
+C:\Users\johan\OneDrive\Desktop\Laboration_2_2020_24\Laboration_2\GUI\obj\Debug\GUI.Alumner.Alumner_Event.resources
+C:\Users\johan\OneDrive\Desktop\Laboration_2_2020_24\Laboration_2\GUI\obj\Debug\GUI.Alum_student.resources
+C:\Users\johan\OneDrive\Desktop\Laboration_2_2020_24\Laboration_2\GUI\obj\Debug\GUI.Alumner.EditAlumn_WinForm.resources
+C:\Users\johan\OneDrive\Desktop\Laboration_2_2020_24\Laboration_2\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\johan\OneDrive\Desktop\Laboration_2_2020_24\Laboration_2\GUI\obj\Debug\GUI.EditPersonalProfil.resources
+C:\Users\johan\OneDrive\Desktop\Laboration_2_2020_24\Laboration_2\GUI\obj\Debug\GUI.LoggIn.resources
+C:\Users\johan\OneDrive\Desktop\Laboration_2_2020_24\Laboration_2\GUI\obj\Debug\GUI.Personal_Profil.resources
+C:\Users\johan\OneDrive\Desktop\Laboration_2_2020_24\Laboration_2\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\johan\OneDrive\Desktop\Laboration_2_2020_24\Laboration_2\GUI\obj\Debug\GUI.Skapa_Event.resources
+C:\Users\johan\OneDrive\Desktop\Laboration_2_2020_24\Laboration_2\GUI\obj\Debug\GUI.SkapaJobbAnnons.resources
+C:\Users\johan\OneDrive\Desktop\Laboration_2_2020_24\Laboration_2\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\johan\OneDrive\Desktop\Laboration_2_2020_24\Laboration_2\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\johan\OneDrive\Desktop\Laboration_2_2020_24\Laboration_2\GUI\obj\Debug\GUI.exe
+C:\Users\johan\OneDrive\Desktop\Laboration_2_2020_24\Laboration_2\GUI\obj\Debug\GUI.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_25\Laboration_2\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_25\Laboration_2\GUI\obj\Debug\GUI.Alumner.Alumner_Event.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_25\Laboration_2\GUI\obj\Debug\GUI.Alum_student.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_25\Laboration_2\GUI\obj\Debug\GUI.Alumner.EditAlumn_WinForm.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_25\Laboration_2\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_25\Laboration_2\GUI\obj\Debug\GUI.EditPersonalProfil.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_25\Laboration_2\GUI\obj\Debug\GUI.LoggIn.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_25\Laboration_2\GUI\obj\Debug\GUI.Personal_Profil.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_25\Laboration_2\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_25\Laboration_2\GUI\obj\Debug\GUI.Skapa_Event.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_25\Laboration_2\GUI\obj\Debug\GUI.SkapaJobbAnnons.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_25\Laboration_2\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_25\Laboration_2\GUI\obj\Debug\GUI.exe
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_25\Laboration_2\GUI\obj\Debug\GUI.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_25\Laboration_2\GUI\bin\Debug\GUI.exe.config
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_25\Laboration_2\GUI\bin\Debug\GUI.exe
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_25\Laboration_2\GUI\bin\Debug\GUI.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_25\Laboration_2\GUI\bin\Debug\BusinessEntities_Framework.dll
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_25\Laboration_2\GUI\bin\Debug\BusinessLayer_Framework.dll
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_25\Laboration_2\GUI\bin\Debug\DataLayer_Framework.dll
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_25\Laboration_2\GUI\bin\Debug\EntityFramework.dll
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_25\Laboration_2\GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_25\Laboration_2\GUI\bin\Debug\BusinessEntities_Framework.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_25\Laboration_2\GUI\bin\Debug\BusinessLayer_Framework.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_25\Laboration_2\GUI\bin\Debug\DataLayer_Framework.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_25\Laboration_2\GUI\bin\Debug\DataLayer_Framework.dll.config
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_25\Laboration_2\GUI\bin\Debug\EntityFramework.xml
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_25\Laboration_2\GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_25\Laboration_2\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_25\Laboration_2\GUI\obj\Debug\GUI.Admin.Admin_Editera_Personal.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_25\Laboration_2\GUI\obj\Debug\GUI.Admin.Admin_Profil.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_25\Laboration_2\GUI\obj\Debug\GUI.Admin.BjudIn.resources
+C:\Users\erikr\OneDrive\Skrivbord\Lab 2 BAckup\Laboration_2_2020_25 back\Laboration_2\GUI\bin\Debug\GUI.exe.config
+C:\Users\erikr\OneDrive\Skrivbord\Lab 2 BAckup\Laboration_2_2020_25 back\Laboration_2\GUI\bin\Debug\GUI.exe
+C:\Users\erikr\OneDrive\Skrivbord\Lab 2 BAckup\Laboration_2_2020_25 back\Laboration_2\GUI\bin\Debug\GUI.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Lab 2 BAckup\Laboration_2_2020_25 back\Laboration_2\GUI\bin\Debug\BusinessEntities_Framework.dll
+C:\Users\erikr\OneDrive\Skrivbord\Lab 2 BAckup\Laboration_2_2020_25 back\Laboration_2\GUI\bin\Debug\BusinessLayer_Framework.dll
+C:\Users\erikr\OneDrive\Skrivbord\Lab 2 BAckup\Laboration_2_2020_25 back\Laboration_2\GUI\bin\Debug\DataLayer_Framework.dll
+C:\Users\erikr\OneDrive\Skrivbord\Lab 2 BAckup\Laboration_2_2020_25 back\Laboration_2\GUI\bin\Debug\EntityFramework.dll
+C:\Users\erikr\OneDrive\Skrivbord\Lab 2 BAckup\Laboration_2_2020_25 back\Laboration_2\GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\erikr\OneDrive\Skrivbord\Lab 2 BAckup\Laboration_2_2020_25 back\Laboration_2\GUI\bin\Debug\BusinessEntities_Framework.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Lab 2 BAckup\Laboration_2_2020_25 back\Laboration_2\GUI\bin\Debug\BusinessLayer_Framework.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Lab 2 BAckup\Laboration_2_2020_25 back\Laboration_2\GUI\bin\Debug\DataLayer_Framework.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Lab 2 BAckup\Laboration_2_2020_25 back\Laboration_2\GUI\bin\Debug\DataLayer_Framework.dll.config
+C:\Users\erikr\OneDrive\Skrivbord\Lab 2 BAckup\Laboration_2_2020_25 back\Laboration_2\GUI\bin\Debug\EntityFramework.xml
+C:\Users\erikr\OneDrive\Skrivbord\Lab 2 BAckup\Laboration_2_2020_25 back\Laboration_2\GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\erikr\OneDrive\Skrivbord\Lab 2 BAckup\Laboration_2_2020_25 back\Laboration_2\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\erikr\OneDrive\Skrivbord\Lab 2 BAckup\Laboration_2_2020_25 back\Laboration_2\GUI\obj\Debug\GUI.Admin.Admin_Editera_Personal.resources
+C:\Users\erikr\OneDrive\Skrivbord\Lab 2 BAckup\Laboration_2_2020_25 back\Laboration_2\GUI\obj\Debug\GUI.Admin.Admin_Profil.resources
+C:\Users\erikr\OneDrive\Skrivbord\Lab 2 BAckup\Laboration_2_2020_25 back\Laboration_2\GUI\obj\Debug\GUI.Alumner.AlumnJobb.resources
+C:\Users\erikr\OneDrive\Skrivbord\Lab 2 BAckup\Laboration_2_2020_25 back\Laboration_2\GUI\obj\Debug\GUI.Admin.BjudIn.resources
+C:\Users\erikr\OneDrive\Skrivbord\Lab 2 BAckup\Laboration_2_2020_25 back\Laboration_2\GUI\obj\Debug\GUI.Alumner.Alumner_Event.resources
+C:\Users\erikr\OneDrive\Skrivbord\Lab 2 BAckup\Laboration_2_2020_25 back\Laboration_2\GUI\obj\Debug\GUI.Alum_student.resources
+C:\Users\erikr\OneDrive\Skrivbord\Lab 2 BAckup\Laboration_2_2020_25 back\Laboration_2\GUI\obj\Debug\GUI.Alumner.EditAlumn_WinForm.resources
+C:\Users\erikr\OneDrive\Skrivbord\Lab 2 BAckup\Laboration_2_2020_25 back\Laboration_2\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\erikr\OneDrive\Skrivbord\Lab 2 BAckup\Laboration_2_2020_25 back\Laboration_2\GUI\obj\Debug\GUI.EditPersonalProfil.resources
+C:\Users\erikr\OneDrive\Skrivbord\Lab 2 BAckup\Laboration_2_2020_25 back\Laboration_2\GUI\obj\Debug\GUI.LoggIn.resources
+C:\Users\erikr\OneDrive\Skrivbord\Lab 2 BAckup\Laboration_2_2020_25 back\Laboration_2\GUI\obj\Debug\GUI.Personal_Profil.resources
+C:\Users\erikr\OneDrive\Skrivbord\Lab 2 BAckup\Laboration_2_2020_25 back\Laboration_2\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\erikr\OneDrive\Skrivbord\Lab 2 BAckup\Laboration_2_2020_25 back\Laboration_2\GUI\obj\Debug\GUI.Skapa_Event.resources
+C:\Users\erikr\OneDrive\Skrivbord\Lab 2 BAckup\Laboration_2_2020_25 back\Laboration_2\GUI\obj\Debug\GUI.SkapaJobbAnnons.resources
+C:\Users\erikr\OneDrive\Skrivbord\Lab 2 BAckup\Laboration_2_2020_25 back\Laboration_2\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\erikr\OneDrive\Skrivbord\Lab 2 BAckup\Laboration_2_2020_25 back\Laboration_2\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\erikr\OneDrive\Skrivbord\Lab 2 BAckup\Laboration_2_2020_25 back\Laboration_2\GUI\obj\Debug\GUI.exe
+C:\Users\erikr\OneDrive\Skrivbord\Lab 2 BAckup\Laboration_2_2020_25 back\Laboration_2\GUI\obj\Debug\GUI.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02_25\GUI\bin\Debug\GUI.exe.config
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02_25\GUI\bin\Debug\GUI.exe
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02_25\GUI\bin\Debug\GUI.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02_25\GUI\bin\Debug\BusinessEntities_Framework.dll
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02_25\GUI\bin\Debug\BusinessLayer_Framework.dll
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02_25\GUI\bin\Debug\DataLayer_Framework.dll
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02_25\GUI\bin\Debug\EntityFramework.dll
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02_25\GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02_25\GUI\bin\Debug\BusinessEntities_Framework.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02_25\GUI\bin\Debug\BusinessLayer_Framework.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02_25\GUI\bin\Debug\DataLayer_Framework.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02_25\GUI\bin\Debug\DataLayer_Framework.dll.config
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02_25\GUI\bin\Debug\EntityFramework.xml
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02_25\GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02_25\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02_25\GUI\obj\Debug\GUI.Admin.Admin_Editera_Personal.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02_25\GUI\obj\Debug\GUI.Admin.Admin_Profil.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02_25\GUI\obj\Debug\GUI.Alumner.AlumnJobb.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02_25\GUI\obj\Debug\GUI.Admin.BjudIn.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02_25\GUI\obj\Debug\GUI.Alumner.Alumner_Event.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02_25\GUI\obj\Debug\GUI.Alum_student.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02_25\GUI\obj\Debug\GUI.Alumner.EditAlumn_WinForm.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02_25\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02_25\GUI\obj\Debug\GUI.Personal_Forms.Editera_Event.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02_25\GUI\obj\Debug\GUI.EditPersonalProfil.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02_25\GUI\obj\Debug\GUI.LoggIn.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02_25\GUI\obj\Debug\GUI.Personal_Profil.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02_25\GUI\obj\Debug\GUI.Personal_Forms.RedigeraEvent.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02_25\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02_25\GUI\obj\Debug\GUI.Skapa_Event.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02_25\GUI\obj\Debug\GUI.SkapaJobbAnnons.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02_25\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02_25\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02_25\GUI\obj\Debug\GUI.exe
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02_25\GUI\obj\Debug\GUI.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration_2_2020_02_25\GUI\obj\Debug\GUI.Admin.Editera_Persoanl.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration 3\Laboration_3\GUI\bin\Debug\GUI.exe.config
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration 3\Laboration_3\GUI\bin\Debug\GUI.exe
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration 3\Laboration_3\GUI\bin\Debug\GUI.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration 3\Laboration_3\GUI\bin\Debug\BusinessEntities_Framework.dll
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration 3\Laboration_3\GUI\bin\Debug\BusinessLayer_Framework.dll
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration 3\Laboration_3\GUI\bin\Debug\DataLayer_Framework.dll
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration 3\Laboration_3\GUI\bin\Debug\EntityFramework.dll
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration 3\Laboration_3\GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration 3\Laboration_3\GUI\bin\Debug\BusinessEntities_Framework.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration 3\Laboration_3\GUI\bin\Debug\BusinessLayer_Framework.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration 3\Laboration_3\GUI\bin\Debug\DataLayer_Framework.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration 3\Laboration_3\GUI\bin\Debug\DataLayer_Framework.dll.config
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration 3\Laboration_3\GUI\bin\Debug\EntityFramework.xml
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration 3\Laboration_3\GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.Admin.Admin_Editera_Personal.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.Admin.Admin_Profil.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.Admin.Editera_Persoanl.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.Alumner.AlumnJobb.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.Admin.BjudIn.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.Alumner.Alumner_Event.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.Alum_student.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.Alumner.EditAlumn_WinForm.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.Personal_Forms.Editera_Event.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.EditPersonalProfil.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.LoggIn.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.Personal_Profil.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.Personal_Forms.RedigeraEvent.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.Skapa_Event.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.SkapaJobbAnnons.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.exe
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.pdb
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.Personal_Forms.Mailing_Personal.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.Personal_Forms.Editera_Mailing.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.Personal_Forms.Skapa_Mailing.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.Personal_Forms.Event_View.resources
+C:\Users\erikr\OneDrive\Skrivbord\Root\Programming\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.Personal_Forms.Mailing_SeDeltagare.resources
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\GUI\bin\Debug\GUI.exe.config
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\GUI\bin\Debug\GUI.exe
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\GUI\bin\Debug\GUI.pdb
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\GUI\bin\Debug\BusinessEntities_Framework.dll
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\GUI\bin\Debug\BusinessLayer_Framework.dll
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\GUI\bin\Debug\DataLayer_Framework.dll
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\GUI\bin\Debug\EntityFramework.dll
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\GUI\bin\Debug\BusinessEntities_Framework.pdb
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\GUI\bin\Debug\BusinessLayer_Framework.pdb
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\GUI\bin\Debug\DataLayer_Framework.pdb
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\GUI\bin\Debug\DataLayer_Framework.dll.config
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\GUI\bin\Debug\EntityFramework.xml
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.Admin.Admin_Editera_Personal.resources
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.Admin.Admin_Profil.resources
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.Admin.Editera_Persoanl.resources
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.Alumner.AlumnJobb.resources
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.Admin.BjudIn.resources
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.Alumner.Alumner_Event.resources
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.Alum_student.resources
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.Alumner.EditAlumn_WinForm.resources
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.Personal_Forms.Editera_Event.resources
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.Personal_Forms.Editera_Mailing.resources
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.EditPersonalProfil.resources
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.LoggIn.resources
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.Personal_Forms.Event_View.resources
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.Personal_Forms.Mailing_Personal.resources
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.Personal_Forms.Mailing_SeDeltagare.resources
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.Personal_Profil.resources
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.Personal_Forms.RedigeraEvent.resources
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.Personal_Forms.Skapa_Mailing.resources
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.Skapa_Event.resources
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.SkapaJobbAnnons.resources
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.exe
+C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\GUI\obj\Debug\GUI.pdb

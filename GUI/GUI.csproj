@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.4.0\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.4.0\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CB47BB76-21E7-405A-83B6-E0B4252C7DEE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GUI</RootNamespace>
+    <AssemblyName>GUI</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin\Admin_Editera_Personal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\Admin_Editera_Personal.Designer.cs">
+      <DependentUpon>Admin_Editera_Personal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Admin_Profil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\Admin_Profil.Designer.cs">
+      <DependentUpon>Admin_Profil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Editera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\Editera.Designer.cs">
+      <DependentUpon>Editera.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alumner\AlumnJobb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alumner\AlumnJobb.Designer.cs">
+      <DependentUpon>AlumnJobb.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Observer_Pattern\IObserver.cs" />
+    <Compile Include="Observer_Pattern\ISubject.cs" />
+    <Compile Include="Observer_Pattern\Observer.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Observer_Pattern\Observer.Designer.cs">
+      <DependentUpon>Observer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Observer_Pattern\ObserverRadioButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Observer_Pattern\Subject.cs" />
+    <Compile Include="Observer_Pattern\SubjectButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Personal_Forms\BjudIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal_Forms\BjudIn.Designer.cs">
+      <DependentUpon>BjudIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alumner\Alumner_Event.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alumner\Alumner_Event.Designer.cs">
+      <DependentUpon>Alumner_Event.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alumner\Alum_student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alumner\Alum_student.Designer.cs">
+      <DependentUpon>Alum_student.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alumner\EditAlumn_WinForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alumner\EditAlumn_WinForm.Designer.cs">
+      <DependentUpon>EditAlumn_WinForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alumner\AddAlumn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alumner\AddAlumn.Designer.cs">
+      <DependentUpon>AddAlumn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal_Forms\Editera_Event.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal_Forms\Editera_Event.Designer.cs">
+      <DependentUpon>Editera_Event.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal_Forms\Editera_Mailing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal_Forms\Editera_Mailing.Designer.cs">
+      <DependentUpon>Editera_Mailing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal_Forms\EditPersonalProfil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal_Forms\EditPersonalProfil.Designer.cs">
+      <DependentUpon>EditPersonalProfil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoggIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoggIn.Designer.cs">
+      <DependentUpon>LoggIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal_Forms\Event_View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal_Forms\Event_View.Designer.cs">
+      <DependentUpon>Event_View.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal_Forms\Mailing_Personal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal_Forms\Mailing_Personal.Designer.cs">
+      <DependentUpon>Mailing_Personal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal_Forms\Mailing_SeDeltagare.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal_Forms\Mailing_SeDeltagare.Designer.cs">
+      <DependentUpon>Mailing_SeDeltagare.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal_Forms\Personal_Profil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal_Forms\Personal_Profil.Designer.cs">
+      <DependentUpon>Personal_Profil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal_Forms\RedigeraEvent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal_Forms\RedigeraEvent.Designer.cs">
+      <DependentUpon>RedigeraEvent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal_Forms\Skapa_Mailing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal_Forms\Skapa_Mailing.Designer.cs">
+      <DependentUpon>Skapa_Mailing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Personal_Forms\Skapa_Event.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal_Forms\Skapa_Event.Designer.cs">
+      <DependentUpon>Skapa_Event.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal_Forms\SkapaJobbAnnons.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal_Forms\SkapaJobbAnnons.Designer.cs">
+      <DependentUpon>SkapaJobbAnnons.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Admin\Admin_Editera_Personal.resx">
+      <DependentUpon>Admin_Editera_Personal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\Admin_Profil.resx">
+      <DependentUpon>Admin_Profil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\Editera.resx">
+      <DependentUpon>Editera.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alumner\AlumnJobb.resx">
+      <DependentUpon>AlumnJobb.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal_Forms\BjudIn.resx">
+      <DependentUpon>BjudIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alumner\Alumner_Event.resx">
+      <DependentUpon>Alumner_Event.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alumner\Alum_student.resx">
+      <DependentUpon>Alum_student.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alumner\EditAlumn_WinForm.resx">
+      <DependentUpon>EditAlumn_WinForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alumner\AddAlumn.resx">
+      <DependentUpon>AddAlumn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal_Forms\Editera_Event.resx">
+      <DependentUpon>Editera_Event.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal_Forms\Editera_Mailing.resx">
+      <DependentUpon>Editera_Mailing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal_Forms\EditPersonalProfil.resx">
+      <DependentUpon>EditPersonalProfil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoggIn.resx">
+      <DependentUpon>LoggIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal_Forms\Event_View.resx">
+      <DependentUpon>Event_View.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal_Forms\Mailing_Personal.resx">
+      <DependentUpon>Mailing_Personal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal_Forms\Mailing_SeDeltagare.resx">
+      <DependentUpon>Mailing_SeDeltagare.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal_Forms\Personal_Profil.resx">
+      <DependentUpon>Personal_Profil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal_Forms\RedigeraEvent.resx">
+      <DependentUpon>RedigeraEvent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal_Forms\Skapa_Mailing.resx">
+      <DependentUpon>Skapa_Mailing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Personal_Forms\Skapa_Event.resx">
+      <DependentUpon>Skapa_Event.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal_Forms\SkapaJobbAnnons.resx">
+      <DependentUpon>SkapaJobbAnnons.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Assets\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessEntities_Framework\BusinessEntities_Framework.csproj">
+      <Project>{57e48839-2e22-4939-bc32-39198d28df75}</Project>
+      <Name>BusinessEntities_Framework</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BusinessLayer_Framework\BusinessLayer_Framework.csproj">
+      <Project>{572aa309-5802-4260-ad09-297dc3879b07}</Project>
+      <Name>BusinessLayer_Framework</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataLayer_Framework\DataLayer_Framework.csproj">
+      <Project>{868B3217-7899-4F98-9331-06511A6A8006}</Project>
+      <Name>DataLayer_Framework</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.0\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.0\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.0\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.0\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.4.0\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.4.0\build\EntityFramework.targets')" />
+</Project>

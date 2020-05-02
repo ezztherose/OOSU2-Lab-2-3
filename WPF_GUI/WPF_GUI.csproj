@@ -1,0 +1,312 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.4.0\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.4.0\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5A53F4E3-68A8-4FE0-AEB5-191AA0228CC0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WPF_GUI</RootNamespace>
+    <AssemblyName>WPF_GUI</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AutoMapper, Version=9.0.0.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005, processorArchitecture=MSIL">
+      <HintPath>..\packages\AutoMapper.9.0.0\lib\net461\AutoMapper.dll</HintPath>
+    </Reference>
+    <Reference Include="Caliburn.Micro, Version=3.2.0.0, Culture=neutral, PublicKeyToken=8e5891231f2ed21f, processorArchitecture=MSIL">
+      <HintPath>..\packages\Caliburn.Micro.Core.3.2.0\lib\net45\Caliburn.Micro.dll</HintPath>
+    </Reference>
+    <Reference Include="Caliburn.Micro.Platform, Version=3.2.0.0, Culture=neutral, PublicKeyToken=8e5891231f2ed21f, processorArchitecture=MSIL">
+      <HintPath>..\packages\Caliburn.Micro.3.2.0\lib\net45\Caliburn.Micro.Platform.dll</HintPath>
+    </Reference>
+    <Reference Include="Caliburn.Micro.Platform.Core, Version=3.2.0.0, Culture=neutral, PublicKeyToken=8e5891231f2ed21f, processorArchitecture=MSIL">
+      <HintPath>..\packages\Caliburn.Micro.3.2.0\lib\net45\Caliburn.Micro.Platform.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Windows.Interactivity, Version=4.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Caliburn.Micro.3.2.0\lib\net45\System.Windows.Interactivity.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Connector.cs" />
+    <Compile Include="ViewModels\AdminProfilViewModel.cs" />
+    <Compile Include="ViewModels\AdminSkapaPersonalViewModel.cs" />
+    <Compile Include="ViewModels\AdminTaBortPersonalViewModel.cs" />
+    <Compile Include="ViewModels\AlumnEditProfileViewModel.cs" />
+    <Compile Include="ViewModels\AlumnEventViewModel.cs" />
+    <Compile Include="ViewModels\AlumnJobbViewModel.cs" />
+    <Compile Include="ViewModels\AlumnProfilViewModel.cs" />
+    <Compile Include="ViewModels\CreateAlumnViewModel.cs" />
+    <Compile Include="ViewModels\MailingDeltagandeViewModel.cs" />
+    <Compile Include="ViewModels\MailingEditeraViewModel.cs" />
+    <Compile Include="ViewModels\MailingSkapaViewModel.cs" />
+    <Compile Include="ViewModels\PersonalEditProfileViewModel.cs" />
+    <Compile Include="ViewModels\PersonalEventDeltagareViewModel.cs" />
+    <Compile Include="ViewModels\PersonalEventSkapaViewModel.cs" />
+    <Compile Include="ViewModels\PersonalEventViewModel.cs" />
+    <Compile Include="ViewModels\PersonalJobbDeltagareViewModel.cs" />
+    <Compile Include="ViewModels\PersonalJobbListaViewModel.cs" />
+    <Compile Include="ViewModels\PersonalJobbViewModel.cs" />
+    <Compile Include="ViewModels\PersonalMailingViewModel.cs" />
+    <Compile Include="ViewModels\PersonalProfilViewModel.cs" />
+    <Compile Include="ViewModels\ShellViewModel.cs" />
+    <Compile Include="ViewModels\ViewModelBase.cs" />
+    <Compile Include="Views\AdminProfilView.xaml.cs">
+      <DependentUpon>AdminProfilView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\AdminSkapaPersonalView.xaml.cs">
+      <DependentUpon>AdminSkapaPersonalView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\AdminTaBortPersonalView.xaml.cs">
+      <DependentUpon>AdminTaBortPersonalView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\AlumnEditProfileView.xaml.cs">
+      <DependentUpon>AlumnEditProfileView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\AlumnEventView.xaml.cs">
+      <DependentUpon>AlumnEventView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\AlumnJobbView.xaml.cs">
+      <DependentUpon>AlumnJobbView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\AlumnProfilView.xaml.cs">
+      <DependentUpon>AlumnProfilView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\CreateAlumnView.xaml.cs">
+      <DependentUpon>CreateAlumnView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\MailingDeltagandeView.xaml.cs">
+      <DependentUpon>MailingDeltagandeView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\MailingEditeraView.xaml.cs">
+      <DependentUpon>MailingEditeraView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\MailingSkapaView.xaml.cs">
+      <DependentUpon>MailingSkapaView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\PersonalEditProfileView.xaml.cs">
+      <DependentUpon>PersonalEditProfileView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\PersonalEventDeltagareView.xaml.cs">
+      <DependentUpon>PersonalEventDeltagareView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\PersonalEventSkapaView.xaml.cs">
+      <DependentUpon>PersonalEventSkapaView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\PersonalEventView.xaml.cs">
+      <DependentUpon>PersonalEventView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\PersonalJobbDeltagareView.xaml.cs">
+      <DependentUpon>PersonalJobbDeltagareView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\PersonalJobbListaView.xaml.cs">
+      <DependentUpon>PersonalJobbListaView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\PersonalJobbView.xaml.cs">
+      <DependentUpon>PersonalJobbView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\PersonalMailingView.xaml.cs">
+      <DependentUpon>PersonalMailingView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\PersonalProfilView.xaml.cs">
+      <DependentUpon>PersonalProfilView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ShellView.xaml.cs">
+      <DependentUpon>ShellView.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bootstrapper.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="Views\AdminProfilView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\AdminSkapaPersonalView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\AdminTaBortPersonalView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\AlumnEditProfileView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\AlumnEventView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\AlumnJobbView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\AlumnProfilView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\CreateAlumnView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\MailingDeltagandeView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\MailingEditeraView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\MailingSkapaView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\PersonalEditProfileView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\PersonalEventDeltagareView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\PersonalEventSkapaView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\PersonalEventView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\PersonalJobbDeltagareView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\PersonalJobbListaView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\PersonalJobbView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\PersonalMailingView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\PersonalProfilView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\ShellView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessEntities_Framework\BusinessEntities_Framework.csproj">
+      <Project>{57E48839-2E22-4939-BC32-39198D28DF75}</Project>
+      <Name>BusinessEntities_Framework</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BusinessLayer_Framework\BusinessLayer_Framework.csproj">
+      <Project>{572AA309-5802-4260-AD09-297DC3879B07}</Project>
+      <Name>BusinessLayer_Framework</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataLayer_Framework\DataLayer_Framework.csproj">
+      <Project>{868B3217-7899-4F98-9331-06511A6A8006}</Project>
+      <Name>DataLayer_Framework</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.0\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.0\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.0\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.0\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.4.0\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.4.0\build\EntityFramework.targets')" />
+</Project>
