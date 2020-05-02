@@ -30,5 +30,5 @@ There are some design patterns used as well.
 
 Look inside the "Documantaion" folder for more info.
 
-## COnnect to the Database
+## Connect to the Database
 When you download the 
