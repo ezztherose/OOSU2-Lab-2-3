@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\WPF_GUI\obj\Debug\
+c:\dev\c#\oosu2-lab-2-3\WPF_GUI\obj\Debug\
 WPF_GUI
 none
 false
 DEBUG;TRACE
-C:\Users\EzzTheRose\Documents\Coding\C#\OOSU 2\Laboration 3\Laboration_3\WPF_GUI\App.xaml
-21-991629110
+c:\dev\c#\oosu2-lab-2-3\WPF_GUI\App.xaml
+21-1787992223
 
-491754974711
-128-1362695380
+50-263192716
+128-469615698
 Views\AdminProfilView.xaml;Views\AdminSkapaPersonalView.xaml;Views\AdminTaBortPersonalView.xaml;Views\AlumnEditProfileView.xaml;Views\AlumnEventView.xaml;Views\AlumnJobbView.xaml;Views\AlumnProfilView.xaml;Views\CreateAlumnView.xaml;Views\MailingDeltagandeView.xaml;Views\MailingEditeraView.xaml;Views\MailingSkapaView.xaml;Views\PersonalEditProfileView.xaml;Views\PersonalEventDeltagareView.xaml;Views\PersonalEventSkapaView.xaml;Views\PersonalEventView.xaml;Views\PersonalJobbDeltagareView.xaml;Views\PersonalJobbListaView.xaml;Views\PersonalJobbView.xaml;Views\PersonalMailingView.xaml;Views\PersonalProfilView.xaml;Views\ShellView.xaml;
 
-False
+True
 
