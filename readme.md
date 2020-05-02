@@ -23,4 +23,12 @@ There are some design patterns used as well.
 - Design patterns:
     - DB-context --> to talk to the DB
     - UnitOfWork --> a collection class that creats all instances of the diffrent tables in the database.
-    - Business Enteties --> 
+    - Business Enteties --> this project are holding all models for the tables
+
+- Improvements:
+    - Build a "facade" pattern inside the "BusinessLayer"
+
+Look inside the "Documantaion" folder for more info.
+
+## COnnect to the Database
+When you download the 
