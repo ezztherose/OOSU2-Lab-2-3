@@ -38,7 +38,13 @@ Data Source=SourcePath,port; Initial Catalog=SpecificDB;Persist Security Info=Tr
 
 To get a better description, check out: https://docs.microsoft.com/en-us/ef/ef6/fundamentals/configuring/config-file
 
----
+
+## NOT COMPLETE
+The code is not complete, there are som modifications thats are necessary to make WPF work.
+
+You can follow the Alumn-Class in BusenissEntetise and make the same changes to the outher models.
+
+## Free for all
 
 This Code is free for everyone, enjoy it and hope it helps!
 
