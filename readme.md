@@ -21,7 +21,6 @@ If you are using Visual Studio, make sure that ".net framework" are selected whe
 
 There are some design patterns used as well.
 - Design patterns:
-    - DB-context --> to talk to the DB
     - UnitOfWork --> a collection class that creats all instances of the diffrent tables in the database.
     - Business Enteties --> this project are holding all models for the tables
 
@@ -31,4 +30,16 @@ There are some design patterns used as well.
 Look inside the "Documantaion" folder for more info.
 
 ## Connect to the Database
-When you download the 
+When you download the project you need to add a few lines inside the "app.config" to be able to communicate with the database.
+
+```
+Data Source=SourcePath,port; Initial Catalog=SpecificDB;Persist Security Info=True;User ID=GivenID;Password=Password
+```
+
+To get a better description, check out: https://docs.microsoft.com/en-us/ef/ef6/fundamentals/configuring/config-file
+
+---
+
+This Code is free for everyone, enjoy it and hope it helps!
+
+Good luck, Ezz
